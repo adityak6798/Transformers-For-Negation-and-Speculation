@@ -14,9 +14,9 @@ Code has been utilized from the following sources:
 
 The colab notebook can be executed directly from Google Colaboratory.
 
-Contributors: [Aditya Khandelwal](https://github.com/adityak6798), [Benita Kathleen Britto](https://github.com/benitakbritto)
-
 Datasets:
 1. [BioScope Corpus](https://rgai.sed.hu/node/105)
 2. [Sherlock (*sem 2012 Shared Task)](https://www.clips.uantwerpen.be/sem2012-st-neg/)
 3. [SFU Review Corpus](https://www.sfu.ca/~mtaboada/SFU_Review_Corpus.html)
+
+Contributors: [Aditya Khandelwal](https://github.com/adityak6798), [Benita Kathleen Britto](https://github.com/benitakbritto)
