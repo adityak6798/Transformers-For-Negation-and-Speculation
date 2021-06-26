@@ -5,7 +5,7 @@
 * [Resolving the Scope of Speculation and Negation using Transformer-Based Architectures](https://arxiv.org/abs/2001.02885)
 2. Multitask_Learning_of_Negation_and_Speculation.ipynb:
   > This is the code for the following paper:
-* Multitask Learning of Negation and Speculation using Transformers (Accepted to LOUHI 2020)
+* [Multitask Learning of Negation and Speculation using Transformers](https://www.aclweb.org/anthology/2020.louhi-1.9.pdf) (Published at LOUHI 2020)
 
 Code has been utilized from the following sources:
 * The starter code was taken from [this article on Named Entity Recognition with Bert](https://www.depends-on-the-definition.com/named-entity-recognition-with-bert/).  
@@ -15,3 +15,8 @@ Code has been utilized from the following sources:
 The colab notebook can be executed directly from Google Colaboratory.
 
 Contributors: [Aditya Khandelwal](https://github.com/adityak6798), [Benita Kathleen Britto](https://github.com/benitakbritto)
+
+Datasets:
+1. [BioScope Corpus](https://rgai.sed.hu/node/105)
+2. [Sherlock (*sem 2012 Shared Task)](https://www.clips.uantwerpen.be/sem2012-st-neg/)
+3. [SFU Review Corpus](https://www.sfu.ca/~mtaboada/SFU_Review_Corpus.html)
